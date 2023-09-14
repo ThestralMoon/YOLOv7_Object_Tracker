@@ -1,0 +1,6 @@
+test: C:\Users\Shaheer\Capstone_Project_Computer_Vision\extracted_test_frames
+
+nc: 5
+
+names: ['person', 'car', 'vehicles', 'object', 'bike']
+
