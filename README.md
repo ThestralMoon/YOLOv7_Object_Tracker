@@ -4,8 +4,4 @@ This object tracking model leverages YOLOv7, a powerful object detection model, 
 
 ## Demo
 
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=64Ys7Xj4Iho">
-         <img src="https://img.youtube.com/vi/64Ys7Xj4Iho/0.jpg" style="width:100%;">
-      </a>
-</div>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/64Ys7Xj4Iho" title="YOLOv7 w/ ByteTrack Integration Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
