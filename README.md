@@ -37,3 +37,4 @@ python track_objects.py --device 'cpu' --video 'VIRAT_S_000001.mp4' --output 'VI
 python track_single_frame.py --device 'cpu' --image_file 'test_frame.png' --output 'detected_test_frame.png'
 ```
 
+![detected_test_frame](https://github.com/ThestralMoon/YOLOv7_Object_Tracker/assets/31570034/1d4179d2-1210-46e0-a1e4-27f4a5569681)
