@@ -4,4 +4,21 @@ This object tracking model leverages YOLOv7, a powerful object detection model, 
 
 ## Demo
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/64Ys7Xj4Iho" title="YOLOv7 w/ ByteTrack Integration Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=64Ys7Xj4Iho" target="_blank">
+ <img src="http://img.youtube.com/vi/64Ys7Xj4Iho/maxresdefault.jpg" alt="Watch the video" width="1280" height="640" border="23" />
+</a>
+
+## Installation
+
+Docker
+<details><summary> <b>Expand</b> </summary>
+  
+```shell
+docker pull thestralmoon/yolov7_object_tracker:first_commit
+
+docker run --name yolov7_tracker -t -d thestralmoon/yolov7_object_tracker:first_commit
+
+docker exec -it yolov7_tracker bash 
+```
+
+</details>
