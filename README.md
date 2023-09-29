@@ -1,4 +1,4 @@
-# production-repo
+# YOLOv7 Object Tracker
 
 This object tracking model leverages YOLOv7, a powerful object detection model, as its foundation for real-time object detection. It enhances tracking accuracy and efficiency by integrating ByteTrack, a cutting-edge tracking algorithm. This combination of YOLOv7 for precise object identification and ByteTrack for robust tracking ensures seamless and reliable tracking of objects in dynamic environments, making it a formidable solution for various applications, especially for surveillance systems and analytical purposes.
 
@@ -22,3 +22,18 @@ docker exec -it yolov7_tracker bash
 ```
 
 </details>
+
+## Track Objects in Video
+
+```shell
+python track_objects.py --device 'cpu' --video 'VIRAT_S_000001.mp4' --output 'VIRAT_S_000001_Tracked.mp4' 
+```
+
+(See Demo Video)
+
+## Single Frame
+
+```shell
+python track_single_frame.py --device 'cpu' --image_file 'test_frame.png' --output 'detected_test_frame.png'
+```
+
