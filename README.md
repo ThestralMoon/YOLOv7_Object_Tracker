@@ -6,7 +6,7 @@ The tracker can process video files or single image frames, draw bounding boxes 
 
 ## Demo
 
-![Watch the demo video](https://www.youtube.com/watch?feature=player_embedded&v=64Ys7Xj4Iho)
+![Watch the demo video](https://youtu.be/64Ys7Xj4Iho)
 
 ## Features
 
